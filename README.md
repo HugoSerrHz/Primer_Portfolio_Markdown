@@ -11,7 +11,7 @@
 -----
 **_1. Mis expectativas_**
 
-Lo que pensaba que iba a aprender en Programación Orientada a Objetos era a manejar objetos para poder ser utilizados en otros programas de manera funcional para crear arrays de objetos,listas de objetos...
+Lo que pensaba que iba a aprender en Programación Orientada a Objetos era a manejar objetos para poder ser utilizados en otros programas de manera funcional para crear arrays de objetos, listas de objetos...
 
 **_2. Que he aprendido_** 
 
@@ -22,11 +22,11 @@ También he aprendido a crear objetos que componen otros objetos o que heredan s
 
 **_3. Ejercicios_** 
 
-Los  dos ejercicios que he seleccionado son la P20 la Baraja y la P23 equipo-jugador
+Los dos ejercicios que he seleccionado son la P20 la Baraja y la P23 equipo-jugador
 
-He seleccionado la P20 ya que fue muy útil el aprender a utilizar el auxiliar en los métodos de las cartas además de que era parecido a prácticas anteriores donde ya se habían hecho barajas.Yo creo que fue más fácil de entender que otras al ser parecida a alguna anterior.
+He seleccionado la P20 ya que fue muy útil el aprender a utilizar el auxiliar en los métodos de las cartas además de que era parecido a prácticas anteriores donde ya se habían hecho barajas. Yo creo que fue más fácil de entender que otras al ser parecida a alguna anterior.
 
-Por otro lado la P23 me ha sido útil para aprender a usar los arrays,ya que se han utilizado tanto para los equipos como los jugadpres,además de ser un tema más fácil de entender.También los métodos de buscar y añadir han sido muy utiles para entender otras prácticas.
+Por otro lado la P23 me ha sido útil para aprender a usar los arrays, ya que se han utilizado tanto para los equipos como los jugadores, además de ser un tema más fácil de entender. También los métodos de buscar y añadir han sido muy útiles para entender otras prácticas.
 
 
 **_4. Conclusiones_**
@@ -35,8 +35,8 @@ He aprendido a utilizar métodos y añadir propiedades a clases que es una forma
 
 La utilidad que le veo es muy amplia ya que si consigo dominar esto me puede ser muy útil para el futuro.
 
-Lo más positivo es saber hacer las propias clases,por ahora me sigue costando y me gustaría mejorar.
+Lo más positivo es saber hacer las propias clases, por ahora me sigue costando y me gustaría mejorar.
 
-Lo que menos me ha gustado es que estos temas me están costando más que comprenderlos el hecho de hacer la práctica,ya que ver la práctica hecha me facilita la comprensión.
+Lo que menos me ha gustado es que estos temas me están costando más que a la hora de comprenderlos el hecho de hacer la práctica, ya que veo las soluciones de las práctica entiendo lo que antes no había sabido hacer.
 
 -----
