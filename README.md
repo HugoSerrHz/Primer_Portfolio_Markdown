@@ -39,4 +39,14 @@ Lo más positivo es saber hacer las propias clases, por ahora me sigue costando 
 
 Lo que menos me ha gustado es que estos temas me están costando más que a la hora de comprenderlos el hecho de hacer la práctica, ya que veo las soluciones de las práctica entiendo lo que antes no había sabido hacer.
 
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| Mal      | []       | []       | [x]      | []       | []       | []       | Cell 3   |
+| Regular  | [x]      | []       | []       | []       | []       | []       | Cell 3   |
+| Bien     | []       | [x]      | []       | []       | []       | []       | Cell 3   |
+-----
+![](https://download.logo.wine/logo/Markdown/Markdown-Logo.wine.png) ![](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png)
+[Enlace Github](https://github.com/HugoSerrHz/Primer_Portfolio_Markdown)
+-----
+--Autor: Hugo Serrano--
 -----
